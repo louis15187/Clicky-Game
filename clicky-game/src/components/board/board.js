@@ -14,7 +14,7 @@ const shuffleArray = arr => (
 const initialChars = [
     {
         name: 'Spongebob Squarepants',
-        image: 'clicky-game/public/images/Spongebob_squarepants.png',
+        img: 'clicky-game/public/images/Spongebob_squarepants.png',
         clicked: false
     },
     {
